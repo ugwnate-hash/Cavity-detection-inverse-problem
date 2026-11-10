@@ -44,7 +44,8 @@ By computing the 3D contour maps of the cost function, this project highlights t
 
 ## How to Run
 ```bash
-git clone [https://github.com/your-username/cavity-detection-optimization.git](https://github.com/your-username/cavity-detection-optimization.git)
-cd cavity-detection-optimization
+git clone https://github.com/ugwnate-hash/Cavity-detection-inverse-problem.git
+cd Cavity-detection-inverse-problem
 pip install -r requirements.txt
-python main.py
+python SAPH211_UpdatedCode.py
+```
